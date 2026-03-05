@@ -33,22 +33,22 @@ main:
   #   url: /markdown/
 
   - title: "About Me"
-  url: /about/#about-me
+    url: /about/#about-me
 
   - title: "News"
-  url: /about/#news
+    url: /about/#news
 
   - title: "Publications"
-  url: /about/#publications
+    url: /about/#publications
 
   - title: "Manuscripts"
-  url: /about/#manuscripts
+    url: /about/#manuscripts
 
   - title: "Education"
-  url: /about/#education
+    url: /about/#education
 
-- title: "Honors & Awards"
-  url: /about/#honors-awards
+  - title: "Honors & Awards"
+    url: /about/#honors-awards
 
-- title: "CV"
-  url: /cv/
+  - title: "CV"
+    url: /cv/
