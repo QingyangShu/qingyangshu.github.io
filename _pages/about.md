@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qingyang Shu - Homepage"
+title: "Qingyang Shu"
 author_profile: true
 redirect_from: 
   - /about/
